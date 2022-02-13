@@ -1,5 +1,1 @@
-Hello Git 
-this is my first git txt
-allow me.
-It it working?
-Yes, it is working actually....
+hello....Its me again
